@@ -1,4 +1,4 @@
-Tugas Besar Pemrograman Web SI-05-FTB <br>
+Tugas Besar Desain dan Pemrograman Web SI-05-FTB <br>
 Aplikasi Kasir "Millenial Market"<br>
 
 Kelompok 6 :<br>
